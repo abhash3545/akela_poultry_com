@@ -1,0 +1,30 @@
+{
+  "rate_board_date": "2026-02-13",
+  "offices": {
+    "giridih": {
+      "chota_per_kg": "Rs 911/kg",
+      "mota_per_kg": "Rs 126/kg",
+      "chicks_per_piece": "Rs 39/piece"
+    },
+    "deoghar": {
+      "chota_per_kg": "Rs 113/kg",
+      "mota_per_kg": "Rs 127/kg",
+      "chicks_per_piece": "Rs 40/piece"
+    },
+    "barhi": {
+      "chota_per_kg": "Rs 111/kg",
+      "mota_per_kg": "Rs 125/kg",
+      "chicks_per_piece": "Rs 38/piece"
+    },
+    "chatra": {
+      "chota_per_kg": "Rs 114/kg",
+      "mota_per_kg": "Rs 128/kg",
+      "chicks_per_piece": "Rs 41/piece"
+    },
+    "jamua": {
+      "chota_per_kg": "Rs 112/kg",
+      "mota_per_kg": "Rs 129/kg",
+      "chicks_per_piece": "Rs 39/piece"
+    }
+  }
+}
